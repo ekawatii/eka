@@ -1,4 +1,3 @@
-[Index.html](https://github.com/user-attachments/files/32115215/Index.html)
 <!DOCTYPE html>
 <html lang="id" class="scroll-smooth">
 <head>
